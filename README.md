@@ -3,7 +3,7 @@
 This is a practice project of Android Firebase push notification with PHP backend.
 
 **Web admin panel Screenshot**<br>
-<img src="https://prnt.sc/UHRFy5Ousk3j" height="444" />
+![image](https://user-images.githubusercontent.com/50443346/217226343-a3dedb2a-50ae-4ab9-9d32-7d2157f0cdff.png)
 
 ## Instructions
 - You have to modify ***config.php*** file with your own Firebase Server Key. This key you'll get from Firebase official website.
